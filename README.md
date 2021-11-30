@@ -10,7 +10,7 @@
 #### 결과
 1. 임계값을 0.7로 두어 학습된 사고와 70%이상의 일치율으르 보일 때 사고 감지
 2. test data를 통한 모델 테스트
-<img src = "img\테스트사진.png">
+<img widht="80%" src = "img\test_video.gif">
 
 ## 
 - 💻 **Computer specs used to train the model**
